@@ -5,7 +5,7 @@
      * @author Thomas Athanasiou at Hippiemonkeys
      * @link https://github.com/Thomas-Athanasiou
      * @link https://hippiemonkeys.com
-     * @copyright Copyright (c) 2022 Hippiemonkeys Web Inteligence EE All rights Reserved
+     * @copyright Copyright (c) 2023 Hippiemonkeys Web Inteligence EE All rights Reserved
      * @package Hippiemonkeys_Modification
      */
 
@@ -17,6 +17,9 @@
         Magento\Store\Model\ScopeInterface,
         Hippiemonkeys\Core\Helper\Config\Section\Group;
 
+    /**
+     * Modification configuration section is @deprecated, use \Hippiemonkeys\Core\Helper\Config\Section\Group\Sub instead
+     */
     class Modification
     extends Group
     {
