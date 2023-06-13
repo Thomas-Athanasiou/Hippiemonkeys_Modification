@@ -5,7 +5,7 @@
      * @author Thomas Athanasiou at Hippiemonkeys
      * @link https://github.com/Thomas-Athanasiou
      * @link https://hippiemonkeys.com
-     * @copyright Copyright (c) 2023 Hippiemonkeys Web Inteligence EE All rights Reserved
+     * @copyright Copyright (c) 2023 Hippiemonkeys Web Intelligence EE All rights Reserved
      * @package Hippiemonkeys_Modification
      */
 
